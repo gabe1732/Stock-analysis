@@ -9,14 +9,14 @@
           Before refactoring my code to include an index of the tickers `Dim tickerIndex As Integer, tickerIndex = 0` the run time for 2017 and 2018 were: 
           
  #### 2017 Runtime pre-refactoring
-     /Resources/Screenshot_runtime_2017_old_code.png
+     [/Resources/Screenshot_runtime_2017_old_code.png]
      
      
      
      
      
  #### 2018 Runtime pre-refactoring
-     /Resources/Screenshot_runtime_2018_old_code.png
+     [/Resources/Screenshot_runtime_2018_old_code.png]
      
      
      
@@ -24,10 +24,10 @@
      
      Once I refactored the code to include the indexing of the tickers the run time of the code was much faster as you can see below.:
  #### 2017 Runtime post refactoring
-      /Resources/Screenshot runtime 2017.png  
+      [/Resources/Screenshot runtime 2017.png]
       
  #### 2018 Runtime post refactoring
-      /Resources/Screenshot runtime 2018.png     
+      [/Resources/Screenshot runtime 2018.png]
      
      
  
