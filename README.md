@@ -1,10 +1,10 @@
 # Stock-analysis VBA Challenge
 
 ## Overview of Stock-Analysis
-  The purpose of this project was to write a code that would make it easy to anlyze a group of stock over two years. 
-  The code was to summarize the stock information by stock and other pertinat financial information. The code needed 
-  to easily identify important inforamation visually as well with color.  This would allow the individual 
-  to visually identify successfull stock vs poorly performing stock.  
+  The purpose of this project was to write a code that would make it easy to analyze a group of stock over two years. 
+  The code was to summarize the stock information by stock and other pertinent financial information. The code needed 
+  to easily identify important information visually as well with color.  This would allow the individual 
+  to visually identify successful stock vs poorly performing stock.  
    
 ## Results of refactoring and upgrading my code
    Before refactoring my code to include an index of the tickers `Dim tickerIndex As Integer, tickerIndex = 0` the run
@@ -33,15 +33,15 @@
 
      
  ## Summary 
- Refactoring code defintly has its in advantages. The fact that you do not have to rewrite each line a code over again
+ Refactoring code definitely has its in advantages. The fact that you do not have to rewrite each line a code over again
  provides big time savings.  Be able to refactor code allows you to have a sort of visual guide when trying to figure out
  what is the appropriate logic to use when approaching a particular obstacle.  As you talk through the code you have already 
  written you can see if that same piece of code will work for your current project.  I have used the code that I have learned
- in this module aready in my job. Refactoring does come with some issues as well.  When refactoring code I find that it 
- is easier for you to miss reference or variables through out your code.  As you refactor you can easlily flyby something that 
+ in this module already in my job. Refactoring does come with some issues as well.  When refactoring code I find that it 
+ is easier for you to miss reference or variables throughout your code.  As you refactor you can easily flyby something that 
  should have been updated with a new reference possibly causing so extra time debugging.  This is what I found when I 
- refactored my orginal code to the new code.  I failed to update a few reference throughout my code.  Although I think I spent
- a litte more time debugging the code it was nothing compared to the time I would have had to spend rewirting the code from 
+ refactored my original code to the new code.  I failed to update a few references throughout my code.  Although I think I spent
+ a little more time debugging the code it was nothing compared to the time I would have had to spend rewriting the code from 
  scratch
           
      
